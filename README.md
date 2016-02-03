@@ -1,5 +1,5 @@
 
-* hello world project
+-* hello world project
 * * compilation
 ==============
 #+BEGIN_EXAMPLE
